@@ -13,6 +13,7 @@ The proposal support the overall vision of Boost & rewards the people who have h
 
 Use $50k from the current treasury of $150k to buy back boost. Devs can decide how to do this before the start of new pool immediately after all other pools end on Oct 1 2020
 The bought back boost goes into a pool where 100% boost stakers can get rewards for staking
+The new pool will be 100% boost tokens pool. Meaning, you will need to stake boost to farm boost.
 The pool will farm for 2 weeks starting Oct 1
 Booster mechanisms apply to the new pool as well.
 
