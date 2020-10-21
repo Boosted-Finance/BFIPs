@@ -1,9 +1,9 @@
 ## Preamble
  
-   BFIP: 2
-   Title: Funding for Contract Audits and Development
-   Author: Boosted Finance Core Contributors
-   Created: 2020-09-08
+    BFIP: 2
+    Title: Funding for Contract Audits and Development
+    Author: Boosted Finance Core Contributors
+    Created: 2020-09-08
  
 ## Simple Summary
  
