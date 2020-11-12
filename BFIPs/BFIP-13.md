@@ -12,8 +12,10 @@ https://snapshot.page/#/boosted-finance/proposal/QmNwUtqDZYZm2Ex6bLNSTVY4vRuHNp5
 ## Abstract
 
 The Boosted Finance team proposes the following measures to be implemented using the funding requested from the treasury:
-~12,000 yCRV for human resources for social media, community competitions and engagement including advisory for 4-6 months.
-~3,000 yCRV to be used to fund a strategist competition for bVaults in prizes and coordination for the community.
+
+* ~12,000 yCRV for human resources for social media, community competitions and engagement including advisory for 4-6 months.
+* ~3,000 yCRV to be used to fund a strategist competition for bVaults in prizes and coordination for the community.
+
 With the beta release of bVaults reaching the maximum hard cap, we believe it is best to support the project with much stronger marketing and social media presence as we ramp up traction to secure product-market-fit. 
 
 ## Motivation
